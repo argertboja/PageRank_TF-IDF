@@ -23,9 +23,12 @@ All of the code is authentic and written by us, TF-IDF implementation, PageRank 
 However, we made use of  a library for lemmatization of words (opennlp-tools-1.8.4.jar) which we changed to our needs in the class Lemmatizer.java. Also, for an efficient stop words removal we used a class from github, which corresponds to the class SimpleTokenizer.java
 
 ### Developers
-Ali Atli
-Argert Boja
-Erin Avllazagaj
-Ndricim Rrapi
+<ul>
+<li><a">Ali Atli</a></li>
+<li><a href="https://github.com/argertboja">Argert Boja</a></li>
+<li><a href="https://github.com/Albocoder">Erin Avllazagaj</a></li>
+<li><a href="https://github.com/ndricimrr">Ndricim Rrapi</a></li>
+</ul>
+<hr />
 
 
